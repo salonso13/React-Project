@@ -60,7 +60,7 @@ El frontend estará disponible en tu navegador y conectado con el backend.
 
 ## 🎯 Tecnologías Utilizadas
 - **Backend**: Django Rest Framework, Python
-- **Frontend**: React, Vite, JavaScript
+- **Frontend**: React, JavaScript, Vite
 
 ¡Listo! Ahora puedes interactuar con la IA y probar su funcionalidad. 😊🚀
 
