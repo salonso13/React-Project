@@ -12,6 +12,14 @@ Bienvenido al proyecto IA Chatbot. Este repositorio contiene un backend desarrol
    ```sh
    cd backend
    ```
+   2.1 Activa el entorno virtual:
+   ```sh
+   .\myenv\Scripts\activate.bat
+   ```
+   2.2 Navega hasta la carpeta del proyecto:
+   ```sh
+   cd ChatBot
+   ```
 3. Instala las dependencias desde el archivo `requirements.txt`:
    ```sh
    pip install -r requirements.txt
@@ -46,14 +54,13 @@ El frontend estará disponible en tu navegador y conectado con el backend.
 
 📌 **Funcionalidad**:
 - Proporciona una interfaz visual estilizada para el chat.
-- Utiliza variables locales para almacenar los mensajes enviados tanto por el usuario como por la IA, mejorando la experiencia de conversación.
+- Utiliza variables locales para almacenar los mensajes enviados tanto por el usuario como por la IA.
 
 ---
 
 ## 🎯 Tecnologías Utilizadas
 - **Backend**: Django Rest Framework, Python
 - **Frontend**: React, Vite, JavaScript
-- **API**: Gemini IA
 
 ¡Listo! Ahora puedes interactuar con la IA y probar su funcionalidad. 😊🚀
 
